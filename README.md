@@ -8,6 +8,8 @@ Currently Ciaran is using it to create a system of musical notation as a means o
 
 You can read more about the process of data collection and how this came about [here](www.ciaranframe.com/blog/arctic1).
 
+Data is *not* stored in this repo - the Zenodo link will become avaliable at the completion o the project.
+
 Dataset current version is **version 1.0**.
 
 
