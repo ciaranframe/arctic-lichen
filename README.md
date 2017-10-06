@@ -8,7 +8,7 @@ Currently Ciaran is using it to create a system of musical notation as a means o
 
 You can read more about the process of data collection and how this came about [here](www.ciaranframe.com/blog/arctic1).
 
-Data is *not* stored in this repo - the Zenodo link will become avaliable at the completion o the project.
+Data is *not* stored in this repo - the Zenodo link will become avaliable at the completion of the project.
 
 Dataset current version is **version 1.0**.
 
@@ -89,7 +89,13 @@ This folder contains
 
 **Audio** 
 
+Outher audio samples
+`audio_attr.txt`
+
 **Image** 
+
+Other images
+`image_attr.txt`
 
 
 
